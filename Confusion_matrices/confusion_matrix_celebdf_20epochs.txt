@@ -1,0 +1,11 @@
+Confusion Matrix:
+[[16  0]
+ [ 5 27]]
+
+Metrics:
+Precision: 1.0000
+Recall: 0.8438
+F1 Score: 0.9153
+Accuracy: 0.8958
+False Positive Rate (FPR): 0.0000
+False Negative Rate (FNR): 0.1562
