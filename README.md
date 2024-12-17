@@ -1,4 +1,4 @@
-## AI-Powered Deepfake Detection in Biometric Systems
+## **AI-Powered Deepfake Detection in Biometric Systems**
 
 ### Description:
 This project focuses on detecting deepfake videos using deep learning techniques, particularly in biometric systems where facial recognition is critical for security. We implemented a solution using the XceptionNet architecture to identify manipulated facial data from real and fake video datasets.
